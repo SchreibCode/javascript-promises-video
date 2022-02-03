@@ -1,8 +1,10 @@
+<img src="https://github.com/SchreibCode/javascript-promises-video/blob/main/img/javascript-promises.jpg" width="450" alt="Youtube Thumbnail"/>
+
 # Thema
 
 - In diesem Repository findest du den Code zum Video: "Videotitel".
 - Falls du das Video noch nicht gesehen hast kannst du es hier: 
-[Link zum Video](https://www.youtube.com) anschauen.
+[Link zum Video](https://youtu.be/wKmzfmiphXY) anschauen.
 
 ## Wie kriege ich den Code?
 
